@@ -1,6 +1,15 @@
 
 # iskandar/app-runner
 
+## Update: 2015-09-26
+
+This image is pretty old and crusty now. Both deis and flynn have moved on and there are newer, better ways of deploying 
+Docker-based artifacts.
+
+This image remains for reference only - please don't use it in production.
+
+---
+
 A Docker app runner image.
 
 Based on [matter/app-base](https://github.com/matter-automaton/app-base-docker), which is itself a mashup
